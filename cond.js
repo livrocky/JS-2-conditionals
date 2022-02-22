@@ -44,6 +44,7 @@ if (sal1) {
   // vygdom jei sal1 false ir sal2 false
   console.log("3 sal1 false ir sal2 false");
 }
-console.log();
 
 console.log("po visko");
+
+// jei skliausteliuose false vygdom sita
