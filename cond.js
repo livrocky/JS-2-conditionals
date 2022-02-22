@@ -1,3 +1,4 @@
+"use strict";
 // palyginimai
 // === lygina reiksmes ir kintamuju tipus
 // console.log('5 === 5 ', 5 === 5);
